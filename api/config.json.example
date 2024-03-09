@@ -1,0 +1,10 @@
+{
+    "fastcgi": {
+        "sock": "run/api.sock",
+        "pathPrepend": "api"
+    }, 
+    "paypal": {
+        "clientID": "",
+        "secret": ""
+    }
+}

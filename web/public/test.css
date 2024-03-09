@@ -1,4 +1,0 @@
-span.title:before
-{
-  content: "%REACT_APP_SITE_NAME%"
-}

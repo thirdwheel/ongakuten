@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "node-fastcgi": "^2.0.0",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.1.7",
+    "sync-request": "^6.1.0"
   }
 }
